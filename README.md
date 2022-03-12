@@ -12,7 +12,12 @@ If you want to translate the repo into your native language, please feel free to
 No | Topic
 --- | --- 
 1 | [JavaScript Engines](#javaScript-engines)
-3 | Optimized code
+2 | Optimized code
+3 | Call stack
+4 | Memory Heap
+5 | Garbage Collection
+6 | Memory Leaks
+7 | Javascript Runtime
 
 ---
 
