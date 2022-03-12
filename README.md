@@ -24,5 +24,6 @@ No | Topic
 
 ### Videos
 - ⏯ [Understanding the V8 JavaScript Engine](https://www.youtube.com/watch?v=xckH5s3UuX4)
+- ⏯ [Franziska Hinkelmann: JavaScript engines - how do they even? | JSConf EU](https://www.youtube.com/watch?v=p-iiEDtpy6I)
 
 ---
