@@ -21,7 +21,7 @@ No | Topic
 ### Topics
 - 📝 [Introduction to Javascript Engines](https://www.geeksforgeeks.org/introduction-to-javascript-engines/)
 - 📝 [How JavaScript works: inside the V8 engine + 5 tips on how to write optimized code](https://medium.com/sessionstack-blog/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e)
-- 📝 [Understanding V8](https://mrale.ph/s3/nodecamp.eu)
+- 📝 [Understanding V8 | Vyacheslav Egorov](https://mrale.ph/s3/nodecamp.eu)
 
 ### Videos
 - ⏯ [Understanding the V8 JavaScript Engine](https://www.youtube.com/watch?v=xckH5s3UuX4)
