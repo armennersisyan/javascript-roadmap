@@ -11,7 +11,7 @@ If you want to translate the repo into your native language, please feel free to
 ## Table of contents
 No | Topic
 --- | ---
-1 | Interpreters and Compilers 
+1 | [Interpreters and Compilers](#interpreters-and-compilers) 
 2 | JavaScript Engines
 3 | Optimized code
 
