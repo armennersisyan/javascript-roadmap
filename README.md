@@ -10,11 +10,10 @@ If you want to translate the repo into your native language, please feel free to
 
 ## Table of contents
 No | Topic
---- | ---
-1 | [Interpreters and Compilers](#interpreters-and-compilers) 
-2 | JavaScript Engines
+--- | --- 
+1 | [JavaScript Engines](#javaScript-engines)
 3 | Optimized code
 
 ---
 
-## Interpreters and Compilers
+## JavaScript Engines
