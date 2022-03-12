@@ -20,6 +20,7 @@ No | Topic
 
 ### Topics
 - 📄 [Introduction to Javascript Engines](https://www.geeksforgeeks.org/introduction-to-javascript-engines/)
+- 📄 [How JavaScript works: inside the V8 engine + 5 tips on how to write optimized code](https://medium.com/sessionstack-blog/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e)
 
 ### Videos
 - ⏯
