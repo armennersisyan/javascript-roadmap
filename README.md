@@ -29,6 +29,7 @@ No | Topic
 - 📝 [Understanding V8’s Bytecode](https://medium.com/dailyjs/understanding-v8s-bytecode-317d46c94775)
 
 ### Videos
+- ⏯ [JavaScript Engines: The Good Parts™ - Mathias Bynens & Benedikt Meurer - JSConf EU 2018](https://www.youtube.com/watch?v=5nmpokoRaZI)
 - ⏯ [Understanding the V8 JavaScript Engine](https://www.youtube.com/watch?v=xckH5s3UuX4)
 - ⏯ [Franziska Hinkelmann: JavaScript engines - how do they even? | JSConf EU](https://www.youtube.com/watch?v=p-iiEDtpy6I)
 - ⏯ [V8 internals for JavaScript developers - Mathias Bynens](https://www.youtube.com/watch?v=m9cTaYI95Zc)
