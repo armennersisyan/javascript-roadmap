@@ -13,9 +13,7 @@ If you want to translate the repo into your native language, please feel free to
 | ------- | ---
 |  | [JavaScript Engines](#javaScript-engines)
 |  | [Call stack](#call-stack)
-|  | [Memory Heap](#memory-heap)
-|  | Garbage Collection
-|  | Memory Leaks
+|  | [Memory Managment and Garbage Collection](#memory-managment-and-garbage-collection)
 |  | Javascript Runtime
 
 ---
@@ -46,7 +44,7 @@ If you want to translate the repo into your native language, please feel free to
 - ⏯ [Javascript: The JS callstack explained with a simple example](https://www.youtube.com/watch?v=w6QGEiQceOM)
 
 
-## Memory Heap
+## Memory Managment and Garbage Collection
 
 ### Topics
 - 📝 [Memory Management](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management)
