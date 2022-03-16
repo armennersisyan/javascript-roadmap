@@ -10,14 +10,14 @@ If you want to translate the repo into your native language, please feel free to
 
 ## Table of contents
 | Topic
- --- 
-| [JavaScript Engines](#javaScript-engines)
-| Optimized code
-| Call stack
-| Memory Heap
-| Garbage Collection
-| Memory Leaks
-| Javascript Runtime
+--- | --- 
+ | [JavaScript Engines](#javaScript-engines)
+ | Optimized code
+ | Call stack
+ | Memory Heap
+ | Garbage Collection
+ | Memory Leaks
+ | Javascript Runtime
 
 ---
 
