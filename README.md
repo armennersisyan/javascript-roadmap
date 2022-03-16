@@ -9,15 +9,14 @@ This roadmap is created with intention to help JavaScript Engineers to master th
 If you want to translate the repo into your native language, please feel free to do so and submit a PR. If you have good topics but really good ones, please add them and create a PR.
 
 ## Table of contents
-- | Topic
---- | --- 
- | [JavaScript Engines](#javaScript-engines)
- | Optimized code
- | Call stack
- | Memory Heap
- | Garbage Collection
- | Memory Leaks
- | Javascript Runtime
+| No | Topic
+| ------- | ---
+|  | [JavaScript Engines](#javaScript-engines)
+|  | Call stack
+|  | Memory Heap
+|  | Garbage Collection
+|  | Memory Leaks
+|  | Javascript Runtime
 
 ---
 
