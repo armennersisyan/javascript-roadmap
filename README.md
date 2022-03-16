@@ -39,7 +39,8 @@ If you want to translate the repo into your native language, please feel free to
 
 ### Topics
 - 📝 [Call Stack](https://developer.mozilla.org/en-US/docs/Glossary/Call_stack)
-- 📝 [The JavaScript Call Stack - What It Is and Why It's Necessary](https://www.freecodecamp.org/news/understanding-the-javascript-call-stack-861e41ae61d4/)
+- 📝 [Understanding the JavaScript call stack](https://medium.com/free-code-camp/understanding-the-javascript-call-stack-861e41ae61d4)
 
 ### Videos
 - ⏯ [The JS Call Stack Explained In 9 Minutes](https://www.youtube.com/watch?v=W8AeMrVtFLY)
+- ⏯ [Javascript: The JS callstack explained with a simple example](https://www.youtube.com/watch?v=w6QGEiQceOM)
