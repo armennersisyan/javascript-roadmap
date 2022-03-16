@@ -50,6 +50,8 @@ If you want to translate the repo into your native language, please feel free to
 
 ### Topics
 - 📝 [Memory Management](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management)
+- 📝 [JavaScript's Memory Management Explained](https://felixgerschau.com/javascript-memory-management/)
+- 📝 [Visualizing memory management in V8 Engine (JavaScript, NodeJS, Deno, WebAssembly)](https://deepu.tech/memory-management-in-v8/)
 
 ### Videos
-- ⏯ [x](x)
+- ⏯ []()
