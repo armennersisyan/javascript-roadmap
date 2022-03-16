@@ -9,15 +9,15 @@ This roadmap is created with intention to help JavaScript Engineers to master th
 If you want to translate the repo into your native language, please feel free to do so and submit a PR. If you have good topics but really good ones, please add them and create a PR.
 
 ## Table of contents
-No | Topic
---- | --- 
-1 | [JavaScript Engines](#javaScript-engines)
-2 | Optimized code
-3 | Call stack
-4 | Memory Heap
-5 | Garbage Collection
-6 | Memory Leaks
-7 | Javascript Runtime
+Topic
+ --- 
+[JavaScript Engines](#javaScript-engines)
+Optimized code
+Call stack
+Memory Heap
+Garbage Collection
+Memory Leaks
+Javascript Runtime
 
 ---
 
@@ -35,3 +35,9 @@ No | Topic
 - ⏯ [V8 internals for JavaScript developers - Mathias Bynens](https://www.youtube.com/watch?v=m9cTaYI95Zc)
 
 ---
+
+
+## Call Stack
+
+### Topics
+- 📝 [Call Stack](https://developer.mozilla.org/en-US/docs/Glossary/Call_stack)
