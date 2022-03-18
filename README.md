@@ -43,6 +43,7 @@ If you want to translate the repo into your native language, please feel free to
 - ⏯ [The JS Call Stack Explained In 9 Minutes](https://www.youtube.com/watch?v=W8AeMrVtFLY)
 - ⏯ [Javascript: The JS callstack explained with a simple example](https://www.youtube.com/watch?v=w6QGEiQceOM)
 
+---
 
 ## Memory Managment and Garbage Collection
 
