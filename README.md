@@ -21,7 +21,7 @@ If you want to translate the repo into your native language, please feel free to
 |  | IIFE
 |  | this Keyword
 |  | call(), apply(), bind()
-|  | Closures
+|  | [Closures](#closures)
 
 ---
 
@@ -62,6 +62,33 @@ If you want to translate the repo into your native language, please feel free to
 ### Videos
 - ⏯ []()
 
+---
+
+## Javascript Runtime
+
+---
+
+##Execution Context
+
+---
+
+##Hoisting
+
+---
+
+##Scopes
+
+---
+
+##IIFE
+
+---
+
+##this Keyword
+
+---
+
+##call(), apply(), bind()
 
 ---
 
