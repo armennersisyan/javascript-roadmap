@@ -68,27 +68,27 @@ If you want to translate the repo into your native language, please feel free to
 
 ---
 
-##Execution Context
+## Execution Context
 
 ---
 
-##Hoisting
+## Hoisting
 
 ---
 
-##Scopes
+## Scopes
 
 ---
 
-##IIFE
+## IIFE
 
 ---
 
-##this Keyword
+## this Keyword
 
 ---
 
-##call(), apply(), bind()
+## call(), apply(), bind()
 
 ---
 
