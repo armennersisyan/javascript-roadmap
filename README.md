@@ -66,4 +66,6 @@ If you want to translate the repo into your native language, please feel free to
 ---
 
 ## Closures
+- 📝 [Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
 - 📝 [I never understood JavaScript closures](https://medium.com/dailyjs/i-never-understood-javascript-closures-9663703368e8)
+- 📝 [What’s a JavaScript closure? In plain English, please.](https://medium.com/edge-coders/whats-a-javascript-closure-in-plain-english-please-6a1fc1d2ff1c)
