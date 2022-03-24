@@ -15,6 +15,13 @@ If you want to translate the repo into your native language, please feel free to
 |  | [Call stack](#call-stack)
 |  | [Memory Managment and Garbage Collection](#memory-managment-and-garbage-collection)
 |  | Javascript Runtime
+|  | Execution Context
+|  | Hoisting
+|  | Scopes
+|  | IIFE
+|  | this Keyword
+|  | call(), apply(), bind()
+|  | Closures
 
 ---
 
@@ -54,3 +61,9 @@ If you want to translate the repo into your native language, please feel free to
 
 ### Videos
 - ⏯ []()
+
+
+---
+
+## Closures
+- 📝 [I never understood JavaScript closures](https://medium.com/dailyjs/i-never-understood-javascript-closures-9663703368e8)
