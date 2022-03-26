@@ -22,6 +22,7 @@ If you want to translate the repo into your native language, please feel free to
 |  | this Keyword
 |  | call(), apply(), bind()
 |  | [Closures](#closures)
+|  | [Prototypes](#prototypes)
 
 ---
 
@@ -96,3 +97,11 @@ If you want to translate the repo into your native language, please feel free to
 - 📝 [Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
 - 📝 [I never understood JavaScript closures](https://medium.com/dailyjs/i-never-understood-javascript-closures-9663703368e8)
 - 📝 [What’s a JavaScript closure? In plain English, please.](https://medium.com/edge-coders/whats-a-javascript-closure-in-plain-english-please-6a1fc1d2ff1c)
+
+
+---
+
+## Prototypes
+- 📝 [Inheritance and the prototype chain](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
+- 📝 [Object prototypes](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_prototypes)
+- 📝 [Master JavaScript Prototypes & Inheritance](https://medium.com/codeburst/master-javascript-prototypes-inheritance-d0a9a5a75c4e)
