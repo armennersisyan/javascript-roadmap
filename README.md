@@ -105,3 +105,4 @@ If you want to translate the repo into your native language, please feel free to
 - 📝 [Inheritance and the prototype chain](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
 - 📝 [Object prototypes](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_prototypes)
 - 📝 [Master JavaScript Prototypes & Inheritance](https://medium.com/codeburst/master-javascript-prototypes-inheritance-d0a9a5a75c4e)
+- 📝 [JavaScript engine fundamentals: optimizing prototypes — Mathias Bynens](https://mathiasbynens.be/notes/prototypes)
