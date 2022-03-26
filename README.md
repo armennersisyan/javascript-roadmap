@@ -32,6 +32,7 @@ If you want to translate the repo into your native language, please feel free to
 - 📝 [Introduction to Javascript Engines](https://www.geeksforgeeks.org/introduction-to-javascript-engines/)
 - 📝 [How JavaScript works: inside the V8 engine + 5 tips on how to write optimized code](https://medium.com/sessionstack-blog/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e)
 - 📝 [Understanding V8’s Bytecode](https://medium.com/dailyjs/understanding-v8s-bytecode-317d46c94775)
+- 📝 [Understanding How the Chrome V8 Engine Translates JavaScript into Machine Code](https://www.freecodecamp.org/news/understanding-the-core-of-nodejs-the-powerful-chrome-v8-engine-79e7eb8af964)
 
 ### Videos
 - ⏯ [JavaScript Engines: The Good Parts™ - Mathias Bynens & Benedikt Meurer - JSConf EU 2018](https://www.youtube.com/watch?v=5nmpokoRaZI)
